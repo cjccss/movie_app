@@ -21,7 +21,7 @@ export default function Movie({id, year, title, summary, poster, genres}){
 Movie.propTypes = {
     id: PropTypes.number.isRequired,
     year: PropTypes.number.isRequired,
-    title: PropTypes.string.isRequired,
+    title: PropTypes.string.isRequired, 
     summary: PropTypes.string.isRequired,
     poster: PropTypes.string.isRequired,
     genres: PropTypes.arrayOf(PropTypes.string).isRequired
