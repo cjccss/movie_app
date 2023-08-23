@@ -13,7 +13,7 @@ React와 관련된 클론코딩 코스를 시작하게 되었다 초급과정인
 중급과정 코스도 진행예정.
 ```
 
-기간 : 2023.08.09 ~ 2023.08.23     
+기간 : 2023.08.17 ~ 2023.08.23     
 사용기술 및 사용 툴 : React, React-route-dom, propTypes, Axios, html, css, VSCode, Git(gh-pages)
 
 
